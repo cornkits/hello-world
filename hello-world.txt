@@ -1,1 +1,1 @@
-this is the stuff that we put onto the thingy.
+this is the stuff that we put onto the thingy. *And this is the stuff that we put on the thingy: FROM GITHUB.*
